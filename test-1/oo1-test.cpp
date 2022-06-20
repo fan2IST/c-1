@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main()
 {
-    printf("test");
+    printf("rr00d-1芜湖");
+    
 }
