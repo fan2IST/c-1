@@ -1,20 +1,11 @@
 /*
  * @Author: fanIST fanISTREC2DX@outlook.com
- * @Date: 2022-11-09 14:06:27
+ * @Date: 2022-11-16 14:01:28
  * @LastEditors: fanIST fanISTREC2DX@outlook.com
- * @LastEditTime: 2022-11-09 14:19:33
- * @FilePath: \c-1\d10\d10.cpp
+ * @LastEditTime: 2022-11-16 14:22:54
+ * @FilePath: \c-1\d13\d13.cpp
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  */
-/*
- * @Author: fanIST fanISTREC2DX@outlook.com
- * @Date: 2022-11-09 14:06:27
- * @LastEditors: fanIST fanISTREC2DX@outlook.com
- * @LastEditTime: 2022-11-09 14:06:51
- * @FilePath: \c-1\d10\d10.cpp
- * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
- */
-
 // ch5-2.c  输出二叉树中的叶子结点
 #include <stdlib.h>
 #include <stdio.h>
